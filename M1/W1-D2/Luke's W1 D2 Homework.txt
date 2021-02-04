@@ -1,0 +1,92 @@
+/*
+ASSIGNMENT RULES
+- All the answers must be in JavaScript
+- You can ask for tutor's help
+- The solution must be available for the tutors by the end of the day
+- You can Google / use StackOverflow BUT we suggest you to use just the material provided
+- You can test your code in a separate file or commenting the single parts in this file or directly in the Developer Console or in the Node Console.
+*/
+/* EXERCISE 1
+Enumerate and describe the main datatypes in JavaScript. Try to explain concepts as you are speaking to a 12 years old
+*/
+
+/* Datatype can be one of three things. It can be what is known as "Script" which and be written and displayed in the console.log (e.g. "Hello my name is Luke".
+The second type is numbers (e.g. 134, 54 or 12)
+The third type Is Boolean which is meaning if somthing is True or False or the value is True or false (e.g. True, False, 1=1 (true, 10>1 (true), 10<1 (false)) */
+
+/* EXERCISE 2
+Describe what is a variable. Try to explain the concept as you are speaking to a 12 years old
+*/
+
+/* A Variable is a something that you can entre where the Value or meaning of it can be changed.
+   For example You can change something called "thisVariant" to change it to a number, string or Boolean */
+
+/* EXERCISE 3
+Write the code to execute a SUM between the number 12 and 20.
+*/
+
+/* console.log(12 + 20)
+ */
+
+/* EXERCISE 4
+Create a variable named x containing the number 12.
+*/
+
+/* let x = 12
+ */
+
+/* EXERCISE 5
+Create a variable named name containing the string John Doe.
+*/
+
+/* let fullname = "John Doe"
+ */
+
+/* EXERCISE 6
+Execute a SUBTRACTION between the number 12 and the variable x, which stores the value 12.
+*/
+
+/* let x = 12
+   console.log(x - 12)
+ */
+
+/* EXERCISE 7
+Create two variables: name1 and name2. name1 is equal to john, name2 is equal to John.
+Verify that name1 is different from name2. 
+Verify then, that name1 and name2 are equals if both lowercase (without changing the value of name2).
+*/
+
+/* let name1 = "john"
+   let name2 = "John"
+   console.log(name1)
+   console.log(name2)
+   console.log(name1.toLowerCase === name2.toLowerCase)
+   */
+
+/* EXERCISE 8
+Create a variable named x (its value must be less than 10). Write the code to print the literal value of x (ex.: if x is 1 print "one", if 5 print "five" etc.).
+*/
+
+/* let x = 5
+   if(x) {
+    console.log("Five")
+}
+//(I think that is what is being asked.)
+     */
+
+/* EXERCISE 9
+[Extra] Insert a value in a variable based on the resut of a ternary if (topic not covered during lesson, try to search it by yourself, tomorrow morning we'll discuss it together ;) )
+*/
+
+/* let chocolate = 100
+let sushi = 500
+let food = (sushi >= 100) ? "chocolate" : "sushi";
+console.log(food)
+
+//..............I tried...... ;D
+
+*/
+
+/* WHEN YOU ARE FINISHED
+Upload the .js file on Eduflow before 17.00 GMT +1. In the next days we'll also learn how to use GIT 
+*/
